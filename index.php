@@ -6,7 +6,7 @@
 $my_name = "KINGSLEY CHIEMERIE AMOKE";
 $my_id = "HNG-03967";
 $lang = "php";
-echo "Hello World, this is $my_name with HNGi7 ID $my_id using $lang for stage 2 task.";
+echo "<br/>Hello World, this is $my_name with HNGi7 ID $my_id using $lang for stage 2 task.";
 ?>
 </body>
 </html>
